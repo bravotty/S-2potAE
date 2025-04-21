@@ -1,7 +1,9 @@
 # S^2potAE
 
 
+## Overview of S^2potAE
 
+![](fig1.pdf)
 
 ## Table of Contents
 
