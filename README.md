@@ -3,7 +3,7 @@
 
 ## Overview of S^2potAE
 
-![](fig1.pdf)
+![](overview.png)
 
 ## Table of Contents
 
